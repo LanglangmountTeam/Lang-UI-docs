@@ -2,55 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="115fc867-d639-4218-9a69-33f850430f96" name="默认变更列表" comment="1.0">
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/app.547ef269.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/example_editor.md.6d56e2c3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/example_editor.md.6d56e2c3.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/example_module.md.75af4270.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/example_module.md.75af4270.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/example_server.md.0d15561b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/example_server.md.0d15561b.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/example_shared.md.b748e82e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/example_shared.md.b748e82e.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/guide.md.d11f0363.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/guide.md.d11f0363.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/index.md.d102b9aa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/index.md.d102b9aa.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/intro_teze.md.3d6ec7bb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/intro_teze.md.3d6ec7bb.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/questions.md.9560f526.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/questions.md.9560f526.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/requirement.md.8c309c2f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/requirement.md.8c309c2f.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/style.b1ebb21e.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/todos.md.73fec1a2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/todos.md.73fec1a2.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/work_editor.md.847eb080.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/work_editor.md.847eb080.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/work_module.md.f324c66f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/work_module.md.f324c66f.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/work_server.md.b439b15e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/work_server.md.b439b15e.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/work_shared.md.bc39ec18.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/work_shared.md.bc39ec18.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/work_struct.md.d0599648.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/work_struct.md.d0599648.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/editor.html" beforeDir="false" afterPath="$PROJECT_DIR$/example/editor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/module.html" beforeDir="false" afterPath="$PROJECT_DIR$/example/module.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/server.html" beforeDir="false" afterPath="$PROJECT_DIR$/example/server.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/shared.html" beforeDir="false" afterPath="$PROJECT_DIR$/example/shared.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guide.html" beforeDir="false" afterPath="$PROJECT_DIR$/guide.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hashmap.json" beforeDir="false" afterPath="$PROJECT_DIR$/hashmap.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intro/teze.html" beforeDir="false" afterPath="$PROJECT_DIR$/intro/teze.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/questions.html" beforeDir="false" afterPath="$PROJECT_DIR$/questions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirement.html" beforeDir="false" afterPath="$PROJECT_DIR$/requirement.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todos.html" beforeDir="false" afterPath="$PROJECT_DIR$/todos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/editor.html" beforeDir="false" afterPath="$PROJECT_DIR$/work/editor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/module.html" beforeDir="false" afterPath="$PROJECT_DIR$/work/module.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/server.html" beforeDir="false" afterPath="$PROJECT_DIR$/work/server.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/shared.html" beforeDir="false" afterPath="$PROJECT_DIR$/work/shared.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/struct.html" beforeDir="false" afterPath="$PROJECT_DIR$/work/struct.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +29,19 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -85,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675881987213</updated>
-      <workItem from="1675881988719" duration="1029000" />
+      <workItem from="1675881988719" duration="2676000" />
     </task>
     <task id="LOCAL-00001" summary="1.0">
       <created>1675882493517</created>
@@ -108,7 +73,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675882918886</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1.0">
+      <created>1675883048773</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675883048773</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1.0">
+      <created>1675883263781</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675883263781</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
