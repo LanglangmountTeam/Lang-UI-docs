@@ -14,7 +14,7 @@
   
 - **导航型组件: 比如面包屑Breadcrumb,下拉菜单Dropdown,菜单Menu等**（必须）
 
-- **数据录入型型组件: 比如form表单，Switch开关，Upload文件上传，日期选择，下拉选择等**（必须）
+- **数据录入型组件: 比如form表单，Switch开关，Upload文件上传，日期选择，下拉选择等**（必须）
 
 - **数据展示型组件: 比如Avator头像，Table表格，List列表等**（必须）
 

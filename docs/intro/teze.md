@@ -13,16 +13,16 @@
 
 项目的骨架已成雏形，归功于Monorepo策略，项目对团队分工合作兼容性良好，本就具备**模块与编辑器分离**、**布局与组件逻辑解耦**、**组件与样式分离**的特点。
 
-项目编辑器页面的布局如下，可与apps/editor/src/pages/editor下的各组件分别对应（可能会过时）。
+项目编辑器页面的布局如下，可与packages下的各组件分别对应（可能会过时）。
 ![项目基本雏形]()
 
 ### 技术栈
 - 前端框架：Vue3
-- 开发语言：TypeScript、Less、前端三件套
-- 打包工具：Vite、WebPack
-- UI库：Arco Design
+- 开发语言：TypeScript、Less、前端三件套、babel
+- 打包工具：rollup
+- UI库：[iconfont] (https://www.iconfont.cn/)
 - 协作策略：Monorepo
-- 状态管理：Pinia + tiny-emitter
+- 状态管理：eslint+prettier
 - 路由管理：VueRouter + vite-plugin-pages
 - 测试：Vitest
 
